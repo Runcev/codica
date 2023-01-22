@@ -51,7 +51,7 @@ Test assignment for Codica
 ### Server Response for failure
 The server response form for failure : `{ status: fail, message: string}`.
 
-#QA
+# QA
 - Чи використовували ви якісь додаткові бібліотеки? Якщо так, то навіщо?
   - `await-to-js` Async await wrapper for easy error handling
   - `typeorm` ORM framework for refers to the model in your app, refers relationship between tables in RDMS and mapping for bridging the model and tables. 
