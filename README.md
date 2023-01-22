@@ -6,7 +6,7 @@ Test assignment for Codica
 ## Database configuration
 - Create DB in you pgAdmin
 - configurate (`codica/server/common/dbConfig.ts`)
-- 
+
 ## Server
 - Fetch repository
 - Run (`npm install`) then (`npm start`)
